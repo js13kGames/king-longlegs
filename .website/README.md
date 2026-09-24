@@ -1,4 +1,8 @@
 ---
+genres:
+  - platformer
+  - action
+  - adventure
 post: https://thcopeland.com/2024/12/12/js13k-2024.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
